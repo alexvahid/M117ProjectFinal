@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_input_antenna_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/generated/res/pngs/debug/drawable-mdpi/ic_settings_input_antenna_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/generated/res/pngs/debug/drawable-mdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/generated/res/pngs/debug/drawable-mdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_input_antenna_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/generated/res/pngs/debug/drawable-mdpi/ic_settings_input_antenna_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    }
+]

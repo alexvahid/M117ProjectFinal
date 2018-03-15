@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-ldpi/ic_search_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-ldpi/ic_settings_input_antenna_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/generated/res/pngs/debug/drawable-ldpi/ic_settings_input_antenna_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-ldpi/ic_search_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-ldpi/ic_settings_input_antenna_black_24dp.png",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/generated/res/pngs/debug/drawable-ldpi/ic_settings_input_antenna_black_24dp.png"
+    }
+]

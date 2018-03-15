@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

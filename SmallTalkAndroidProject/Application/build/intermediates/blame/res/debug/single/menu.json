@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

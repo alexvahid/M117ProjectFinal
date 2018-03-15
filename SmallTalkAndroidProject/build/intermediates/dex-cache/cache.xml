@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ff67057f31397250a4502380c16322b5cb738208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_165ac358c11161a1d37d447fef54e6706170cbbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2fb136e6f37569240c7138e7db0f04cdbbc1009b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.github.lguipeng/BubbleView/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.github.lguipeng-BubbleView-1.0.1_ce03171aa16584024bb9ad2f55189c466a504ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_75dfa36ee0c554da61ee55ec6b3b4e5e3c86a053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bedbead7020348ce82bd3f04fa553c61fdcaa0a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_e437f089479a3c27e964f8a106ac0f6336afa81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_4d886e1fffa213fff820d1b664896c3812c743d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_5ab3b36e3a48b50b1f99d19990d3fd51459cb2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_19fa5082d4528c09f709d1ec2076d987fc367ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_43c47ea634eb338289d962db45a9010517cf5592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_99e8feef31a670ad87bce75fe4a5d4fedb5b5e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_74e3a2d487d5eb23ebc306bfc26444fc82bdc1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a00f6726888ef7f78bb241da4e9039b2cd8ccb15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_9020cd07601852861454df5699bdd59fd0197591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_edf21df059cf3480d39b6b7ee70ee8e1e2e9b798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_e5855211255997f66f04189ab3b495b30fe422c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_41882aedaa12b5f87dc6b5f08346bb4d1fa1b703.jar" />
+    </item>
+
+</items>

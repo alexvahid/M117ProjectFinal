@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/SmallTalk/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/C:\\Users\\Michael\\m117\\M117Project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Alex/Documents/117/M117Project/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
